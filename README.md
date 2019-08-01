@@ -1,7 +1,7 @@
 # UI Exercise
 A UI exercise for UI applicants at OneMain
 
-A simple form, similar to one you might encounter working for us.
+Use the design files in this repository to build a simple form, similar to one you might encounter working for us. Please match the design as closely as you are able.
 
 - Assume the form submits to a secure backend.
 - All fields are required, though the form changes depending on if you are planing to use a debit card or bank account.

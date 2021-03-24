@@ -17,7 +17,7 @@ We’re just looking for a simple front-end only implementation of this.  Assume
 
 Your response should be a folder containing any HTML, CSS, and JS you’ve written.  We should be able to just open the index file to view the exercise.
 
-Feel free to return the folder as a zip file or upload it to your GitHub. Either way, please let me know when you’ve completed the exercise so that we can evaluate your work.
+Please upload the project folder to your GitHub for our review. Either way, please let me know when you’ve completed the exercise so that we can evaluate your work.
 
 ### What we're looking for
 - How close did you get to the design?
